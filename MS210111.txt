@@ -1,0 +1,2 @@
+<date>,<ticker>,<open>,<high>,<low>,<close>,<volume>
+1/13/2021,ADRO,1490,1540,1470,1200,278542900

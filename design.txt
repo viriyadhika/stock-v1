@@ -1,0 +1,25 @@
+
+
+User add new day
+- Check if have final csv file
+  - if have, check if have raw file for 999 days
+    - if have, add together then done
+    - if don't have then just pass
+  - if don't have, check if have raw file for 999 days
+    - if have, append that file then add bvs column then done
+    - if don't have, create a file with only this entry with an empty bvs column
+
+- Check if have raw file 999 days
+  - if have, check if have final
+    - if have append it together then done
+    - if don't have create a file 
+
+User add bvs
+- Check if have final csv file
+  - if have, update the bvs according to date range then done
+  - if don't have, do nothing
+
+
+Make Penguin props
+NewUser
+A size of human palm, with snows
